@@ -205,9 +205,9 @@ a {
   margin: 0 0 24px;
   color: var(--blue-dark);
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: clamp(2rem, 4vw, 3.3rem);
-  letter-spacing: -0.055em;
-  line-height: 1.02;
+  font-size: clamp(1.45rem, 2.8vw, 2.15rem);
+  letter-spacing: -0.04em;
+  line-height: 1.08;
 }
 
 .details__lower {
@@ -470,8 +470,8 @@ a {
   }
 
   .details__heading h2 {
-    margin-bottom: 18px;
-    font-size: 2rem;
+    margin-bottom: 16px;
+    font-size: 1.55rem;
   }
 
   .details__lower {
